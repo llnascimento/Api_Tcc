@@ -1,0 +1,429 @@
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.Development.json
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.json
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.exe
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.deps.json
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.runtimeconfig.json
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.pdb
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Humanizer.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\xunit.abstractions.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\xunit.assert.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\xunit.core.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\3DS_TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.AssemblyReference.cache
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.GeneratedMSBuildEditorConfig.editorconfig
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfoInputs.cache
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfo.cs
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CoreCompileInputs.cache
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cs
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cache
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.SbRotina.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.build.SbRotina.props
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SbRotina.props
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SbRotina.props
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.pack.json
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.build.json
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.development.json
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\scopedcss\bundle\SbRotina.styles.css
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CopyComplete
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.dll
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\refint\SbRotina.dll
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.pdb
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.genruntimeconfig.cache
+D:\3DS_TCC\SbRotina\SbRotina\obj\Debug\net6.0\ref\SbRotina.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfo.cs
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\refint\SbRotina.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.pdb
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.exe
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.deps.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.runtimeconfig.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.pdb
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\xunit.core.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.SbRotina.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.build.SbRotina.props
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SbRotina.props
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SbRotina.props
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\scopedcss\bundle\SbRotina.styles.css
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CopyComplete
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.genruntimeconfig.cache
+C:\Users\User\Desktop\API\SbRotina\SbRotina\obj\Debug\net6.0\ref\SbRotina.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.Development.json
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.json
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.exe
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.deps.json
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.runtimeconfig.json
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.pdb
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Humanizer.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\xunit.abstractions.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\xunit.assert.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\xunit.core.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.AssemblyReference.cache
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfoInputs.cache
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfo.cs
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CoreCompileInputs.cache
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cs
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cache
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.SbRotina.Microsoft.AspNetCore.StaticWebAssets.props
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.build.SbRotina.props
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SbRotina.props
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SbRotina.props
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.pack.json
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.build.json
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.development.json
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\scopedcss\bundle\SbRotina.styles.css
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CopyComplete
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\refint\SbRotina.dll
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.pdb
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.genruntimeconfig.cache
+C:\DEV\TCC\SBRotina\SbRotina\SbRotina\obj\Debug\net6.0\ref\SbRotina.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.Development.json
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.json
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.exe
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.deps.json
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.runtimeconfig.json
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.pdb
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Humanizer.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\xunit.assert.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\xunit.core.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.AssemblyReference.cache
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfoInputs.cache
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfo.cs
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CoreCompileInputs.cache
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.SbRotina.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.build.SbRotina.props
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SbRotina.props
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SbRotina.props
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.build.json
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.development.json
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\scopedcss\bundle\SbRotina.styles.css
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CopyComplete
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\refint\SbRotina.dll
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.pdb
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.genruntimeconfig.cache
+D:\Work\Etec\2023-1_3DS_PAMII\Alunos\LucasLopes\v2\SbRotina\SbRotina\obj\Debug\net6.0\ref\SbRotina.dll
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\web.config
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\appsettings.Development.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\appsettings.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\SbRotina.deps.json
+C:\Users\User\Desktop\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\SbRotina.runtimeconfig.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\web.config
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.Development.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\appsettings.Development.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\appsettings.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\SbRotina.deps.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Publish\SbRotina.runtimeconfig.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.exe
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.deps.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.runtimeconfig.json
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.pdb
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Humanizer.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\xunit.abstractions.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\xunit.assert.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\xunit.core.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\3DS\API\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.AssemblyReference.cache
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.GeneratedMSBuildEditorConfig.editorconfig
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfoInputs.cache
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfo.cs
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CoreCompileInputs.cache
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cs
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cache
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.SbRotina.Microsoft.AspNetCore.StaticWebAssets.props
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.build.SbRotina.props
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SbRotina.props
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SbRotina.props
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.pack.json
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.build.json
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.development.json
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\scopedcss\bundle\SbRotina.styles.css
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CopyComplete
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.dll
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\refint\SbRotina.dll
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.pdb
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.genruntimeconfig.cache
+D:\3DS\API\SbRotina\SbRotina\obj\Debug\net6.0\ref\SbRotina.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\appsettings.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\publish\web.config
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\publish\SbRotina.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\publish\SbRotina.runtimeconfig.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.exe
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.runtimeconfig.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\SbRotina.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Humanizer.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\xunit.core.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.AssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.SbRotina.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.build.SbRotina.props
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SbRotina.props
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SbRotina.props
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\scopedcss\bundle\SbRotina.styles.css
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.csproj.CopyComplete
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\refint\SbRotina.dll
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\SbRotina.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Área de Trabalho\TCC\SbRotina\SbRotina\obj\Debug\net6.0\ref\SbRotina.dll
